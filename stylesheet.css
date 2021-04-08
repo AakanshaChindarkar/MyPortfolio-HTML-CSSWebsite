@@ -168,3 +168,9 @@ welcome h2{
       padding:10px 10px;
       color:#00752f;
   }
+.linkedinlink{
+   text-decoration: none;
+    color:white;
+    font-style:bold;
+    font-size:large;
+}
