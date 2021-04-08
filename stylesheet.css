@@ -73,7 +73,7 @@ footer{
     float: left;
 }
 .footer-right a{
-    float: right;
+    float: left;
     padding: 15px 15px;
     margin-right: 10px;
     margin-left: 10px;
