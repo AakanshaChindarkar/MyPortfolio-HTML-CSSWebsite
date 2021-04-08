@@ -8,7 +8,7 @@ Name of your Project: PortfolioWebsite
 Technologies Used: HTML, CSS
 
 A brief Description About Your Project: 
-This project describes my portfolio.
+This project describes Infomration about Me andmy projects with the help of Progate.
 
 Your Github Repository: https://github.com/AakanshaChindarkar/PortfolioWebsite
 
